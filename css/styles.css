@@ -151,9 +151,10 @@ footer{
 }
 .lista{
     display: flex; 
+
 }
 
-@media (max-width: 1046px){
+@media (max-width: 1440px){
     nav{
         display: flex; 
 
@@ -161,6 +162,10 @@ footer{
     ul{
         display: flex;
         list-style-type: none;
+    }
+    form{
+        position: absolute;
+       
     }
     .logo{
         height: 100%;
@@ -184,6 +189,14 @@ footer{
         top: 150px;
       
     }
+    .lista{
+        justify-content: space-around; 
+        position: relative;
+        top: 50px;
+    }
+    div.lista ul{
+        display: block;
+    }
 
     .fa-brands{
         margin-left:100px ;
@@ -193,11 +206,13 @@ footer{
         justify-content: center;
         position: relative;
         top: 250px;
+        color: #FFFFFF;
     
     } 
     .c_rigth{
         position: relative;
         top: 200px;
+        margin-bottom: 40px;
     }
 
 }
