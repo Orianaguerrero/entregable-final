@@ -9,10 +9,13 @@
 /*HEADER*/ 
 header{
     height: 50px;
-    margin: 40px;
+    margin: 40px 180px;
 }
 nav{
     display: none;
+}
+nav ul li{
+    margin-right: 10px;
 }
 .contact-nav{
     display: none;
@@ -253,7 +256,7 @@ footer{
 
 }
 
-@media (max-width: 1440px){
+@media (min-width: 1440px){
 
   
     nav{
