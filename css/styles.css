@@ -336,7 +336,7 @@ form button {
 }
 
 /*/FOOTER*/
-@media (min-width: 1440px) {
+@media (min-width: 1200px) {
     header {
         margin: 40px 180px;
     }
