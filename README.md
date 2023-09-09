@@ -28,6 +28,9 @@
     * section best of the month (sección con 3 jugadores)
     * footer.
     * Animaciones (nav-bar,buttons,y cajas)
+    * Flexbox
+    * Pseudoelementos y Pseudoclases
+    * Imagenes, iconos, fuentes, background
 
     Claudia:
     * pros-section “title-one” (sección con los tres pasos).
