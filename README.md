@@ -17,7 +17,7 @@
     * Footer
     * Asignación de clases en ambos
     * Implementación de etiquetas 
-    
+
   ### CSS 
 
     Para nuestro diseño, cada uno se encargo de realizar las partes que les correspondio.
@@ -27,6 +27,7 @@
     * section firts (Donde esta la img del jugador,texto y boton de contacto)
     * section best of the month (sección con 3 jugadores)
     * footer.
+    * Animaciones (nav-bar,buttons,y cajas)
 
     Claudia:
     * pros-section “title-one” (sección con los tres pasos).
